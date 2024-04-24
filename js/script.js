@@ -136,32 +136,32 @@ runningLine();
 
     let PARTICIPANTS = [
         {
-            img: '../img/speaker_photo_320x320_2x.png',
+            img: 'img/speaker_photo_320x320_2x.png',
             name: 'Хозе-Рауль Капабланка',
             role: 'Чемпион мира по шахматам',
         },
         {
-            img: '../img/speaker_photo_320x320_2x.png',
+            img: 'img/speaker_photo_320x320_2x.png',
             name: 'Эммануил Ласкер',
             role: 'Чемпион мира по шахматам',
         },
         {
-            img: '../img/speaker_photo_320x320_2x.png',
+            img: 'img/speaker_photo_320x320_2x.png',
             name: 'Александр Алехин',
             role: 'Чемпион мира по шахматам',
         },
         {
-            img: '../img/speaker_photo_320x320_2x.png',
+            img: 'img/speaker_photo_320x320_2x.png',
             name: 'Арон Нимцович',
             role: 'Чемпион мира по шахматам',
         },
         {
-            img: '../img/speaker_photo_320x320_2x.png',
+            img: 'img/speaker_photo_320x320_2x.png',
             name: 'Рихард Рети',
             role: 'Чемпион мира по шахматам',
         },
         {
-            img: '../img/speaker_photo_320x320_2x.png',
+            img: 'img/speaker_photo_320x320_2x.png',
             name: 'Остап Бендер',
             role: 'Гроссмейстер',
         },
